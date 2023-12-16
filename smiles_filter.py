@@ -1,4 +1,5 @@
 
+#this code is written with the help of chatgpt, specially the functions, thanks
 
 from rdkit import Chem
 import pandas as pd
